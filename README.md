@@ -25,7 +25,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository (if not already cloned):
    ```bash
-   git clone https://github.com/your-repo/CarParkSG.git
+   git clone https://github.com/haja-mohideen-s/SG-Car-Park.git
    cd CarParkSG
    ```
 
